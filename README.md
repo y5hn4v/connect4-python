@@ -33,9 +33,9 @@ TODO:
     ```bash
     pip install -r requirements.txt
     ```
-- Run the `main.py`
+- Run the `connect4.py`
     ```bash
-    python3 main.py
+    python3 connect4.py
     ```
 
 
